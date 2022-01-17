@@ -1410,7 +1410,7 @@ import com.amazon.SellingPartnerAPIAA.LWAAuthorizationCredentials;
 LWAAuthorizationCredentials lwaAuthorizationCredentials = LWAAuthorizationCredentials.builder()
   .clientId("myClientId")
   .clientSecret("myClientSecret")
-  .refreshToken("Aztr|...")
+  .refreshToken("Atzr|...")
   .endpoint("https://api.amazon.com/auth/o2/token")
   .build();
 ```
